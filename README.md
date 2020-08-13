@@ -1,5 +1,5 @@
 # WeatherPython
-Visualization of the weather of more than five hundred cities across the world of varying distance from the equator.
+Visualization of the weather of more than five hundred cities across the world of varying distance from the equator
 
 The question : 
 What's the weather like as we approach the equator?
